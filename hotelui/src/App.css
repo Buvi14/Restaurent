@@ -1,0 +1,6 @@
+.App {
+  background-attachment: fixed;
+  background: rgb(207, 198, 198);
+  height: 100vh;
+  overflow-x: hidden;
+}

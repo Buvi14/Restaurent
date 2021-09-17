@@ -1,0 +1,25 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 92vh;
+  background: #e6e6e6;
+  background-image: url("./login.jpg");
+  color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100vw;
+}
+@media (max-width: 800px) {
+  .form-container {
+    margin-top: 0;
+  }
+}
+.log-col {
+  padding: 10px;
+}
+
+.submit-btn {
+  padding: 10px;
+}
