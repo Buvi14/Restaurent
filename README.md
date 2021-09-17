@@ -5,7 +5,7 @@ Ui part consists of React UI
 
 Server part consists of express server
 
-#This Application helps to order the food online
+# This Application helps to order the food online
 
 Using npm to install and run the application
 
@@ -23,7 +23,7 @@ NavBar Is Styled using CSS
 
 Using JavaScript method sort() and map() to display the data
 
-#web server is developed by using Node and Express
+# web server is developed by using Node and Express
 
 For initially starting the server, /setupDb to setting up the Db.
 
